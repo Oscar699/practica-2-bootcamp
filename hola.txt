@@ -1,2 +1,3 @@
 Un breve texto. Ok.
 Oscar aqui generando conflictos
+Guido Brugiatelli agregando texto al archivo para generar conflictos
