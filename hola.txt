@@ -1,1 +1,4 @@
 Un breve texto. Ok.
+
+
+Guido Brugiatelli agregando texto al archivo para generar conflictos
