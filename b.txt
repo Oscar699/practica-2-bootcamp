@@ -1,1 +1,2 @@
 Este es un mensaje para el archivo b.txt
+Oscar agregando información a este archivo tambien.
